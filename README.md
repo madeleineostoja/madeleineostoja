@@ -1,4 +1,4 @@
-Engineering lead at [Tracksuit](https://gotracksuit.com). Building [Hyperfocal](https://hyperfocal.photo), a portfolio platform for photographers. Previously co-founded Simpla, a CMS startup.
+Senior engineer at [Lyssna](https://lyssna.com). Building [Hyperfocal](https://hyperfocal.photo), a portfolio platform for photographers. Previously co-founded Simpla, a CMS startup.
 
 Most of my open source has been developer tools and design systems — [Pollen](https://github.com/hyperfocalHQ/pollen) is the main one I still maintain.
 
